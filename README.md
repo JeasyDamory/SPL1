@@ -4,7 +4,7 @@
 
 * python for windows installiert
 * cmder for windows installiert
-* vidual studio code installiert
+* visual studio code installiert
 * github Registrierung
 * github "Erste Schritte"
 * git Grundlagen
