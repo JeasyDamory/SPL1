@@ -1,6 +1,6 @@
 # Linux cheat-cheet
 
-##Befehlsübersicht
+## Befehlsübersicht
 
 * passwd <user>  Passwort ändern
 * su <user>      Benutzer wechseln
