@@ -9,3 +9,8 @@
 * Gaming
 * Graphic design
 * Photography
+
+### Programming Skills
+* Java
+* HTML
+* Python 3
