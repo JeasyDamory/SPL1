@@ -2,8 +2,8 @@
 
 ## Befehlsübersicht
 
-* passwd <user>  (Passwort ändern)
-* su <user>      (Benutzer wechseln)
-* rm <datei>     (Lösche Datei)
-* pwd            (Zeige aktuelles Verzeichnis)
-* id <user>      (Zeige Benutzerdaten)
+1. passwd <user>  (Passwort ändern)
+2. su <user>      (Benutzer wechseln)
+3. rm <datei>     (Lösche Datei)
+4. pwd            (Zeige aktuelles Verzeichnis)
+5. id <user>      (Zeige Benutzerdaten)
