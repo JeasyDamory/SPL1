@@ -1,4 +1,5 @@
-Name: Jeasy
-School: HTL Leoben
-Class: SPL
-Group: 3
+# About Me
+* Name: Jeasy
+* School: HTL Leoben
+* Class: SPL
+* Group: 3
