@@ -1,5 +1,4 @@
 # SPL1
-## Jeasy D.
 ### Woche 1: 16.04.2018
 
 * python for windows installiert
