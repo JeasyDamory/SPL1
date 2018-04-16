@@ -1,4 +1,4 @@
 # Hello World mit python
 name = input("What's your name?")
 
-print ("Hello World!")
+print ("Hello World!", name)
